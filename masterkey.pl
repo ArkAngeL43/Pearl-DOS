@@ -348,7 +348,7 @@ Version 1.0 Stable
 
 =head1 AUTHOR
 
-Laera Loris llaera@outlook.com
+ArkAngeL43
 
 =head1 ABSTRACT
 
